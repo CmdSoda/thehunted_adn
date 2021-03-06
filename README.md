@@ -1,1 +1,1 @@
-# Average Damage Numbers for The Hunted
+# Average Damage Numbers for "The Hunted: The Board Game"
