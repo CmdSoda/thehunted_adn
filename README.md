@@ -1,1 +1,1 @@
-# thehunted_adn
+# Average Damage Numbers for The Hunted
